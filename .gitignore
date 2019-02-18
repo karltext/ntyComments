@@ -1,2 +1,11 @@
-data/
+data/*
+!data/README.md
+
 env/
+.env
+log/
+log0/
+notes.md
+
+__pycache__
+.ipynb_checkpoints

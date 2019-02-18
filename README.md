@@ -14,6 +14,7 @@ Setup and activate a virtual environment then run `pip install -r requirments.tx
 * https://www.tensorflow.org/guide
 * https://matplotlib.org/
 * https://scikit-learn.org/stable/
+* https://education.github.com/git-cheat-sheet-education.pdf
 
 
 ## Other Links
